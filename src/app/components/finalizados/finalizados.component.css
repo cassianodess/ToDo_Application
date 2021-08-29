@@ -1,0 +1,44 @@
+.container{
+    width: 60%;
+    margin: auto;
+    min-height: 85vh;
+}
+
+.content{
+    width: 100%;
+
+}
+
+.badge button{
+    color: blueviolet;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.116);
+}
+.badge button:hover{
+    color: white;
+    background-color: blueviolet;
+}
+
+p{
+    padding-bottom: 0;
+    text-align: end;
+    font-weight: 600;
+    color: rgb(93, 93, 91);
+}
+
+mat-card{
+    margin-top: .8rem;
+    padding: .2rem;
+}
+
+h1{
+    text-align: center;
+    margin-top: 1rem;
+    font-weight: 600;
+    color: rgb(90, 167, 90);
+}

@@ -1,0 +1,46 @@
+form{
+    padding: 2rem;
+    width: 50%;
+    margin: 2rem auto 0 auto;
+    text-align: center;
+    background-color: rgba(112, 124, 133, 0.123);
+    border-radius: 10px;
+}
+
+.data-finalizar{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+h1{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 3rem;
+    color: rgb(75, 69, 69);
+}
+
+.forms{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.tarefa{
+    width: 100%;
+}
+.descricao{
+    width: 100%;
+}
+
+.btns{
+    width: 100%;
+}
+
+button{
+    margin: 0 1rem 0 .5rem;
+    padding: 0 2rem 0 2rem;
+}
+
+
+

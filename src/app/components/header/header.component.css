@@ -1,0 +1,34 @@
+img{
+    height: 3rem;
+}
+
+.logo{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+
+.header{
+    justify-content: center;
+    height: 10vh;
+}
+
+span{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+
+h1{
+    padding-left: 1rem;
+}
+
+.social img{
+    height: 1.5rem;
+    margin: 0 .5rem;
+}
+

@@ -1,0 +1,18 @@
+p{
+    margin: 0;
+}
+
+.footer{
+    width: 100%;
+    padding: 1rem;
+    margin-top: 2rem;
+    height: 5vh;
+    font-size: .8rem;
+    bottom: 0;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(112, 124, 133, 0.493);
+}
+
+

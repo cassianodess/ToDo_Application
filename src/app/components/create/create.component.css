@@ -1,0 +1,59 @@
+form{
+    padding: 2rem;
+    width: 50%;
+    height: 85vh;
+    margin: 2rem auto 0 auto;
+    text-align: center;
+    background-color: rgba(192, 193, 207, 0.13);
+    border-radius: 10px;
+}
+
+.data-finalizar{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+h1{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 3rem;
+    color: rgb(61, 57, 65);
+}
+
+.forms{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.tarefa{
+    width: 100%;
+}
+.descricao{
+    width: 100%;
+}
+
+.btns{
+    width: 100%;
+}
+
+button{
+    margin: 0 1rem 0 .5rem;
+    padding: 0 2rem 0 2rem;
+        
+}
+
+.criar{
+    color: white;
+    background-color: blueviolet;
+    
+}
+
+.cancelar{
+    color: white;
+    background-color: red;
+}
+
+
+
