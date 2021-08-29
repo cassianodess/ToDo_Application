@@ -1,4 +1,4 @@
-# Todo
+# ToDo Application
 
 This project was generated with Angular_CLI version 12.2.1, [CHECK OUT MY WEB APP!](https://cassianodess.github.io/Todo_Application/)
 
