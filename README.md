@@ -1,6 +1,6 @@
 # Todo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
+This project was generated with Angular_CLI version 12.2.1, [check out](https://cassianodess.github.io/Todo_Application/)
 
 ## Development server
 
